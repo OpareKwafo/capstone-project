@@ -24,13 +24,13 @@ Detailed feature description can be found in the scrapping_six.ipynb file.
 
 ## Libraries used
 
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-keras
-sklearn
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* tensorflow
+* keras
+* sklearn
 
 ## Acknowledgments
 
