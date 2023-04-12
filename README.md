@@ -1,4 +1,4 @@
-# capstone-project
+# Capstone-Project
 
 This project involves predicting the outcome of Spanish Premier League matches using Machine Learning.
 I explored 10 different models to make predictions on the outcome of a game.
@@ -13,16 +13,16 @@ Detailed feature description can be found in the scrapping_six.ipynb file.
 
 ## Models explored
 
-RandomForestClassifer
-DecisionTree
-Gradient Boosting
-Logistic Regression
-Support Vector Mechanics
-LGBM
-XGBoost
-ANN
+* RandomForestClassifer
+* DecisionTree
+* Gradient Boosting
+* Logistic Regression
+* Support Vector Mechanics
+* LGBM
+* XGBoost
+* Artificial Neural Network
 
-## libraries used
+## Libraries used
 
 numpy
 pandas
@@ -32,9 +32,9 @@ tensorflow
 keras
 sklearn
 
-## acknowledgments
+## Acknowledgments
 
 This and more
-https://fbref.com/
-https://stackoverflow.com/
-https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
+* https://fbref.com/
+* https://stackoverflow.com/
+* https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
